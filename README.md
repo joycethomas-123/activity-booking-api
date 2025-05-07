@@ -24,5 +24,5 @@ This is a simple backend API for a basic activity booking app built with Node.js
 
 1. *Clone the repository*
    ```bash
-   git clone https://github.com/your-username/activity-booking-api.git
+   git clone https://github.com/joycethomas-123/activity-booking-api.git
    cd activity-booking-api
